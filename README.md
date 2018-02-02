@@ -12,7 +12,7 @@ You can create a PHP desktop app by going to [NW.js](http://nwjs.io/), downloadi
 
 ## Multiple Platforms
 
-Although it may need a little additonal work you can make a PHP desktop application for Windows, Linux, and OSX. You can use the PHP binaries found at [PHP.net](http://php.net/) or elsewhere. Windows binaries will work once you drop them in the PHP directory. Linux and OSX versions have a slightly different file structure which make packaging a bit harder. But users have been able to use binaries included with [AMPPS](http://www.ampps.com/) and [PHP Nightrain](http://www.naetech.com/php-nightrain) with little to no extra modification.
+Although it may need a little additonal work you can make a PHP desktop application for Windows, Linux, and OSX. You can use the PHP binaries found at [PHP.net](http://php.net/) or elsewhere. Windows binaries will work once you drop them in the PHP directory. Linux and OSX versions have a slightly different file structure which make packaging a bit harder. But users have been able to use binaries included with [AMPPS](http://www.ampps.com/) and PHP Nightrain with little to no extra modification.
 
 ## Optional PHP Packaging
 
